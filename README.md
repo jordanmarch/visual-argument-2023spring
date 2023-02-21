@@ -6,9 +6,11 @@ I am working on getting down the basic elements of my argument. There are 2 laye
 
 **Assets**
 
-| image  | source |
-| ------------- | ------------- |
-| times square  | Luciano Mortula-LGM - stock.adobe.com  |
-| television  | Red retro TV screen psd by rawpixel.com |
-| static | real tv static by klikk |
-| person | Caucasian handsome man by luismolinero |
+| image  | title/author | source | license |
+| ------------- | ------------- | ------------- | ------------- |
+| times square  | NEW YORK CITY -MARCH 25 By Luciano Mortula-LGM | Adobe Stock | Education License |
+| television  | Red retro TV screen psd by rawpixel.com | Adobe Stock | Education License |
+| static | real tv static by klikk | Adobe Stock | Education License |
+| person | Caucasian handsome man by luismolinero | Adobe Stock | Education License |
+| battery ad | 3D Li-Ion AA battery banner ad By JoyImage | Adobe Stock | Education License |
+| pixel overlay | Abstract blue pixel By injenerker | Adobe Stock | Education License |
