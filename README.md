@@ -8,9 +8,9 @@ I am working on getting down the basic elements of my argument. There are 2 laye
 
 | image  | title | author | source | license |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| times square  | NEW YORK CITY -MARCH 25 By Luciano Mortula-LGM | Adobe Stock | Education License |
-| television  | Red retro TV screen psd by rawpixel.com | Adobe Stock | Education License |
-| static | real tv static by klikk | Adobe Stock | Education License |
+| times square  | NEW YORK CITY -MARCH 25: Times Square, featured with Broadway Theaters and animated LED signs | [Luciano Mortula-LGM](https://stock.adobe.com/contributor/200575549/luciano-mortula-lgm?load_type=author&prev_url=detail) | Adobe Stock | Education License |
+| television  | Red retro TV screen psd | [Rawpixel.com](https://stock.adobe.com/contributor/209490560/rawpixel-com?load_type=author&prev_url=detail) | Adobe Stock | Education License |
+| static | real tv static | [klikk](https://stock.adobe.com/contributor/24003/klikk?load_type=author&prev_url=detail) | Adobe Stock | Education License |
 | person | Caucasian handsome man isolated on yellow background sending a message with the mobile | [luismolinero](https://stock.adobe.com/contributor/203651281/luismolinero?load_type=author&prev_url=detail) | Adobe Stock | Education License |
-| battery ad | 3D Li-Ion AA battery banner ad By JoyImage | Adobe Stock | Education License |
-| pixel overlay | Abstract blue pixel By injenerker | Adobe Stock | Education License |
+| battery ad | 3D Li-Ion AA battery banner ad | [JoyImage](https://stock.adobe.com/contributor/203252508/joyimage?load_type=author&prev_url=detail) | Adobe Stock | Education License |
+| pixel overlay | Abstract blue pixel background with smooth blurred | [injenerker](https://stock.adobe.com/contributor/202795459/injenerker?load_type=author&prev_url=detail) | Adobe Stock | Education License |
